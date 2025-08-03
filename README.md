@@ -56,6 +56,7 @@ python predict_image.py
 ```
 This will:
 - Open a file upload dialog
+![Alt Text](test1.jpeg) 
 - Display the predicted animal and confidence
 
 # Future Enhancements
