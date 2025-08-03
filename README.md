@@ -56,8 +56,16 @@ python predict_image.py
 ```
 This will:
 - Open a file upload dialog
-![Alt Text](test1.jpeg) 
+
+<img width="936" height="580" alt="Screenshot 2025-08-03 164758" src="https://github.com/user-attachments/assets/21ad90d7-1224-4598-a201-48306ee3e28a" />
+Choosen image:
+
+![Alt Text](test1.jepg)
+
 - Display the predicted animal and confidence
+
+<img width="1458" height="114" alt="Screenshot 2025-08-03 164813" src="https://github.com/user-attachments/assets/6a7f2b2e-e786-498c-bc8d-ceb5de26a31b" />
+
 
 # Future Enhancements
 - Add Grad-CAM visualization for model explainability
