@@ -1,0 +1,10 @@
+# Ignore Python environment
+animal_env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.h5
+*.log
+.env/
+.venv/
