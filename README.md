@@ -60,7 +60,7 @@ This will:
 <img width="936" height="580" alt="Screenshot 2025-08-03 164758" src="https://github.com/user-attachments/assets/21ad90d7-1224-4598-a201-48306ee3e28a" />
 Choosen image:
 
-![Alt Text](test1.jepg)
+![Alt Text](test1.jpeg)
 
 - Display the predicted animal and confidence
 
